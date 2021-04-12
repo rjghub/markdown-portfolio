@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+Coffee
+Tea
+Ginger Tea
+Dosa
+Idly
+Chapathi
+Idiyappam
+Appam
+Naan
+Parotta
